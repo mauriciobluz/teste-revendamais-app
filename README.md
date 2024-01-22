@@ -1,29 +1,16 @@
-# teste-revendamais-app
+# Teste consulta de ceps Revenda mais
 
-This template should help get you started developing with Vue 3 in Vite.
+Este projeto consiste em um frontend básico projetado em função da realização de consultas de cep com a Api rest desenvolvida para tal função.
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+## Instalação de dependencias
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Servidor para testes
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```

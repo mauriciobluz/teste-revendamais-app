@@ -26,9 +26,9 @@ export default {
   directives: { maska: vMaska },
   data() {
     return {
-      street_name: 'teste',
-      postal_code: '83310200',
-      search_toggle: true
+      street_name: '',
+      postal_code: '',
+      search_toggle: false
     }
   },
   computed: {
@@ -62,10 +62,3 @@ export default {
   }
 }
 </script>
-
-<style scoped>
-.address-form {
-  /* background-color: black; */
-}
-</style>
-  
